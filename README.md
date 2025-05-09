@@ -22,5 +22,5 @@ This project combines and cleans data from **four different sources** using Pyth
 
 ## 📈 Tableau Dashboards
 
-* [Revenue Dashboard on Tableau Public](#)
-* [Sales Dashboard on Tableau Public](#)
+* [Revenue & Sales Dashboard 1 on Tableau Public](https://public.tableau.com/views/RevenueandSalesDashboardUSA/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* [Revenue & Sales Dashboard 2 on Tableau Public](https://public.tableau.com/views/RevenueandSalesDashboardUSA/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
